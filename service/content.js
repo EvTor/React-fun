@@ -1,0 +1,26 @@
+const content = {
+    text: [
+        { id: 1, purpose: "HeroComponent", typeOfTitle: "h1", title: "Nauč se React s námi!", content: "Sérií místa by dostal stopa kotel soudí byl, miliony obou v superexpoloze s oborechjednou hibernujícím výborná slavný." },
+        { id: 2, purpose: "AppCardStories", typeOfTitle: "h2", title: "H2 Card stories", content: "Vítr skoro nefouká a tak by se na první pohled mohlo zdát, že se balónky snad vůbec nepohybují." },
+        { id: 3, purpose: "AppTextStories", typeOfTitle: "h2", title: "H2 Text stories", content: "Jenom tak klidně levitují ve vzduchu. Jelikož slunce jasně září a na obloze byste od východu k západu hledali mráček marně." },
+        { id: 4, purpose: "AppBigStories", typeOfTitle: "h2", title: "H2 Big Stories", content: "Zkrátka široko daleko nikde nic, jen zelenkavá tráva, jasně modrá obloha." }
+    ],
+    cards: [
+        { id: 1, purpose: "AppCardStories", cardTitle: "Card story headline", cardContent: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 2, purpose: "AppCardStories", cardTitle: "Card story headline", cardContent: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 3, purpose: "AppCardStories", cardTitle: "Card story headline", cardContent: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 4, purpose: "AppCardStories", cardTitle: "Card story headline", cardContent: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 5, purpose: "AppCardStories", cardTitle: "Card story headline", cardContent: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+    ],
+    stories: [
+        { id: 1, purpose: "AppTextStories", title: "Card story headline", content: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 2, purpose: "AppTextStories", title: "Card story headline", content: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 3, purpose: "AppTextStories", title: "Card story headline", content: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 4, purpose: "AppTextStories", title: "Card story headline", content: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+        { id: 5, purpose: "AppTextStories", title: "Card story headline", content: "Ně masovým osobního druhem párající, či tóny když kubických, v tři ať veliký svatého kontinentální, s ovládá jí kdy zkusit. Dana, dna získat. Jednotlivá hmatatelný, chtít řadě odhalil urychlovač v tlupa zdvihla žila přepůlené k vážně u vytvoří rozpoutal té zatím jsem k v. Četné chování unikal utká tj. vůbec supererupce, kde jednoduché." },
+    ]
+};
+
+export default content;
+
+
